@@ -4,15 +4,26 @@ Aqui você vai encontrar projetos práticos, sistemas reais e ideias transformad
 
 <div align="center">
   <a href="https://github.com/kelsonFilipeDev">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=kelsonFilipeDev&show_icons=true&theme=matrix&hide_border=true&include_all_commits=true&count_private=true&kill_cache=true" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelsonFilipeDev&layout=compact&langs_count=7&theme=matrix&hide_border=true&kill_cache=true" />
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kelsonFilipeDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kelsonFilipeDev&layout=compact&langs_count=7&theme=dark" />
   </a>
 </div>
 
-<div style="display: flex; flex-direction: collum; align-items: center"><br>
-  <img height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-  <img height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-  <img height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+<div align="center">
+  <h3>Tech Stack</h3>
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="45" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="45" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="45" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" />
+  
+  <br><br> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </div>
 
 ## Em que estou a trabalhar
